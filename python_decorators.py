@@ -39,5 +39,4 @@ def print_hello():
     print("Hello!")
 
 print_hi()
-print_hello()
 
